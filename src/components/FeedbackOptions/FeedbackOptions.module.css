@@ -1,7 +1,12 @@
 body {
+  font-family: sans-serif;
+  background-color: #c5f7f6;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0;
 }
 li {
   list-style: none;
